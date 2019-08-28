@@ -1,1 +1,1 @@
-Test
+{"result": "success", "id": 8610, "Version": "1.1", "URL": "https://www.icloud.com/shortcuts/ca2e82770dce4701be82da426da9e898", "Notes": "Updated some of the instructions on installation", "Release": "May 31, 2019"}
